@@ -174,7 +174,7 @@
     margin: auto;
     padding: 30px;
     /* flex-direction: column; */
-    background-color: rgb(235, 228, 218);
+   background-color: rgb(255, 255, 255);
 }
 .section-Left{
     flex-direction: row-reverse;
